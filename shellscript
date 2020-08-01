@@ -1,2 +1,4 @@
 #/bin/bash!
 echo "executing shell script"
+DATE='date'
+echo $DATE
